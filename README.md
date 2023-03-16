@@ -6,7 +6,7 @@ La aplicación contará con un panel de administración desarrollado con la tecn
 
 ## Tecnologías utilizadas
 
-- Angular JS
+- Angular 15
 - .NET
 
 ## Funcionalidades principales
