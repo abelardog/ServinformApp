@@ -1,4 +1,4 @@
-namespace Backend;
+namespace ServinformApp.Api;
 
 public class WeatherForecast
 {

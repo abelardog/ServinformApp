@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+   <ProjectReference Include="../ServinformApp.Domain/ServinformApp.Domain.csproj" />
+   <ProjectReference Include="../ServinformApp.Shared/ServinformApp.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

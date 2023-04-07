@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="../ServinformApp.Application/ServinformApp.Application.csproj" />
+    <ProjectReference Include="../ServinformApp.Infrastructure/ServinformApp.Infrastructure.csproj" />
+    <ProjectReference Include="../ServinformApp.Shared/ServinformApp.Shared.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
